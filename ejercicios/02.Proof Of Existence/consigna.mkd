@@ -1,0 +1,4 @@
+Crear un contrato tipo "Prueba de existencia"
+>el Owner del contrato pude dar de alta cuentas de escribanos
+>Los escribanos pueden subir los hashes de algun archivo y luego reasignar ese hash a una cuenta particular (ciudadano), haciendo que la cuenta del ciudadano sea dueña del hash
+>El propietario del hash de un archivo puede trasnferir ese hash a otro ciudadano
